@@ -1,0 +1,22 @@
+# R History and Environment
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary scratch and task logs
+scratch/
+.system_generated/
+*.log
+~$*.pptx
+~$*.docx
