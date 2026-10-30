@@ -11,9 +11,9 @@
 ---
 
 ## 👥 Team: Data Architects
-* **Awowole Uthman** (`uthmanawowole@gmail.com`)
+* **Awowole Uthman(lead) ** (`uthmanawowole@gmail.com`)
 * **Makinde Teslim** (`makindeteslim10@gmail.com`)
-* **Ikeh Emmanuel (Lead)** (`emmanuelikeh2993@gmail.com`)
+* **Ikeh Emmanuel ** (`emmanuelikeh2993@gmail.com`)
 * **Soulaymane Aliyah** (`aliyahsoulaymane@gmail.com`)
 
 **Affiliation:** Department of Statistics  
