@@ -3,7 +3,7 @@
 # ==============================================================================
 # Competition: ASA DataQuest 2026
 # Team: Data Architects
-# Lead: Emmanuel Ikeh (emmanuelikeh2993@gmail.com)
+# Lead: Awowole uthman (usmanawowole@gmail.com)
 #
 # Instructions:
 # Run this script directly from the project root directory in R or from terminal:
